@@ -1,14 +1,14 @@
 {
-  "version": "1.89",
-  "releaseName": "Kumo 1.89",
+  "version": "1.90",
+  "releaseName": "Kumo 1.90",
   "releaseNotes": "请查看 GitHub Release 中的版本说明。",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.89/Kumo-1.89-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.89/Kumo-1.89-Setup.zip.sha256",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.90/Kumo-1.90-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.90/Kumo-1.90-Setup.zip.sha256",
   "deltas": [
     {
-      "fromVersion": "1.88",
-      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.89/Kumo-1.88-to-1.89-Delta.zip",
-      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.89/Kumo-1.88-to-1.89-Delta.zip.sha256"
+      "fromVersion": "1.89",
+      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.90/Kumo-1.89-to-1.90-Delta.zip",
+      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Kumo/releases/1.90/Kumo-1.89-to-1.90-Delta.zip.sha256"
     }
   ]
 }
