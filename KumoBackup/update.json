@@ -1,7 +1,7 @@
 {
-  "version": "2.51",
-  "releaseName": "KumoBackup 2.51",
-  "releaseNotes": "Add periodic automatic update checks, tray notifications, and timestamped update diagnostics so long-running computers receive new releases.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.51/KumoBackup-2.51-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.51/KumoBackup-2.51-Setup.zip.sha256"
+  "version": "2.52",
+  "releaseName": "KumoBackup 2.52",
+  "releaseNotes": "Make both single-click and double-click on the taskbar tray icon open the KumoBackup main window.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.52/KumoBackup-2.52-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.52/KumoBackup-2.52-Setup.zip.sha256"
 }
