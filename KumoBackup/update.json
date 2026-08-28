@@ -1,10 +1,10 @@
 {
-  "version": "2.54",
-  "releaseName": "KumoBackup 2.54",
-  "releaseNotes": "Use font-independent vector caption icons so minimize, maximize, restore, and close render correctly on Windows 10.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.54/KumoBackup-2.54-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.54/KumoBackup-2.54-Setup.zip.sha256",
-  "incrementalBaseVersion": "2.53",
-  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.54/KumoBackup-2.54-Update.zip",
-  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.54/KumoBackup-2.54-Update.zip.sha256"
+  "version": "2.55",
+  "releaseName": "KumoBackup 2.55",
+  "releaseNotes": "Include the product version in every distributable installer file name.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Setup.zip.sha256",
+  "incrementalBaseVersion": "2.54",
+  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Update.zip",
+  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Update.zip.sha256"
 }
