@@ -1,10 +1,10 @@
 {
-  "version": "2.55",
-  "releaseName": "KumoBackup 2.55",
-  "releaseNotes": "Include the product version in every distributable installer file name.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Setup.zip.sha256",
-  "incrementalBaseVersion": "2.54",
-  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Update.zip",
-  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.55/KumoBackup-2.55-Update.zip.sha256"
+  "version": "2.56",
+  "releaseName": "KumoBackup 2.56",
+  "releaseNotes": "SD-WAN synchronization and backup now require a manual size and traffic confirmation before file transfer.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.56/KumoBackup-2.56-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.56/KumoBackup-2.56-Setup.zip.sha256",
+  "incrementalBaseVersion": "2.55",
+  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.56/KumoBackup-2.56-Update.zip",
+  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.56/KumoBackup-2.56-Update.zip.sha256"
 }
