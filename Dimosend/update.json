@@ -1,8 +1,14 @@
 {
-  "version": "0.76",
-  "releaseName": "Dimosend 0.76",
-  "releaseNotes": "Dimosend 0.76 稳定版更新",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.76/Dimosend-0.76-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.76/Dimosend-0.76-Setup.zip.sha256",
-  "deltas": []
+  "version": "0.77",
+  "releaseName": "Dimosend 0.77",
+  "releaseNotes": "Dimosend 0.77 稳定版更新",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.77/Dimosend-0.77-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.77/Dimosend-0.77-Setup.zip.sha256",
+  "deltas": [
+    {
+      "fromVersion": "0.76",
+      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.77/Dimosend-0.76-to-0.77-Delta.zip",
+      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.77/Dimosend-0.76-to-0.77-Delta.zip.sha256"
+    }
+  ]
 }
