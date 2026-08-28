@@ -1,14 +1,14 @@
 {
-  "version": "0.89",
-  "releaseName": "Dimosend 0.89",
-  "releaseNotes": "Dimosend 0.89 稳定版更新",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.89/Dimosend-0.89-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.89/Dimosend-0.89-Setup.zip.sha256",
+  "version": "0.90",
+  "releaseName": "Dimosend 0.90",
+  "releaseNotes": "Dimosend 0.90 稳定版更新",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.90/Dimosend-0.90-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.90/Dimosend-0.90-Setup.zip.sha256",
   "deltas": [
     {
-      "fromVersion": "0.88",
-      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.89/Dimosend-0.88-to-0.89-Delta.zip",
-      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.89/Dimosend-0.88-to-0.89-Delta.zip.sha256"
+      "fromVersion": "0.89",
+      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.90/Dimosend-0.89-to-0.90-Delta.zip",
+      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/0.90/Dimosend-0.89-to-0.90-Delta.zip.sha256"
     }
   ]
 }
