@@ -1,7 +1,7 @@
-{
-  "version": "2.45",
-  "releaseName": "KumoBackup 2.45",
-  "releaseNotes": "新增独立、安全的自动更新功能。",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.45/KumoBackup-2.45-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.45/KumoBackup-2.45-Setup.zip.sha256"
+﻿{
+    "version":  "2.45",
+    "releaseName":  "KumoBackup 2.45",
+    "releaseNotes":  "KumoBackup now uses its own isolated and secure automatic update channel.",
+    "packageUrl":  "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.45/KumoBackup-2.45-Setup.zip",
+    "checksumUrl":  "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.45/KumoBackup-2.45-Setup.zip.sha256"
 }
