@@ -1,7 +1,7 @@
-﻿{
-    "version":  "2.46",
-    "releaseName":  "KumoBackup 2.46",
-    "releaseNotes":  "Fix OneDrive synchronization path normalization for Windows relative paths.",
-    "packageUrl":  "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.46/KumoBackup-2.46-Setup.zip",
-    "checksumUrl":  "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.46/KumoBackup-2.46-Setup.zip.sha256"
+{
+  "version": "2.47",
+  "releaseName": "KumoBackup 2.47",
+  "releaseNotes": "Bundle the required .NET 8 Desktop Runtime while keeping the installed application lightweight and multi-file.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.47/KumoBackup-2.47-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.47/KumoBackup-2.47-Setup.zip.sha256"
 }
