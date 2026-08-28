@@ -1,7 +1,7 @@
 {
-  "version": "2.48",
-  "releaseName": "KumoBackup 2.48",
-  "releaseNotes": "Bundle the required .NET 8 Desktop Runtime while keeping the installed application lightweight and multi-file.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.48/KumoBackup-2.48-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.48/KumoBackup-2.48-Setup.zip.sha256"
+  "version": "2.50",
+  "releaseName": "KumoBackup 2.50",
+  "releaseNotes": "Fix post-install window activation by launching the tray process at the interactive user's integrity level and add timestamped startup diagnostics.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.50/KumoBackup-2.50-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.50/KumoBackup-2.50-Setup.zip.sha256"
 }
