@@ -1,7 +1,7 @@
 {
-  "version": "2.47",
-  "releaseName": "KumoBackup 2.47",
+  "version": "2.48",
+  "releaseName": "KumoBackup 2.48",
   "releaseNotes": "Bundle the required .NET 8 Desktop Runtime while keeping the installed application lightweight and multi-file.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.47/KumoBackup-2.47-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.47/KumoBackup-2.47-Setup.zip.sha256"
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.48/KumoBackup-2.48-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.48/KumoBackup-2.48-Setup.zip.sha256"
 }
