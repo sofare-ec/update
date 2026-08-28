@@ -1,7 +1,10 @@
 {
-  "version": "2.52",
-  "releaseName": "KumoBackup 2.52",
-  "releaseNotes": "Make both single-click and double-click on the taskbar tray icon open the KumoBackup main window.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.52/KumoBackup-2.52-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.52/KumoBackup-2.52-Setup.zip.sha256"
+  "version": "2.53",
+  "releaseName": "KumoBackup 2.53",
+  "releaseNotes": "Prefer a lightweight application-only update package and automatically fall back to the complete installer when required.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.53/KumoBackup-2.53-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.53/KumoBackup-2.53-Setup.zip.sha256",
+  "incrementalBaseVersion": "2.52",
+  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.53/KumoBackup-2.53-Update.zip",
+  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.53/KumoBackup-2.53-Update.zip.sha256"
 }
