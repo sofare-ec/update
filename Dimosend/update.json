@@ -1,16 +1,16 @@
 {
-  "version": "1.25",
-  "releaseName": "Dimosend 1.25",
-  "releaseNotes": "Dimosend 1.25 稳定版更新",
-  "installerUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.25/Dimosend-1.25-Setup.exe",
-  "installerChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.25/Dimosend-1.25-Setup.exe.sha256",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.25/Dimosend-1.25-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.25/Dimosend-1.25-Setup.zip.sha256",
+  "version": "1.26",
+  "releaseName": "Dimosend 1.26",
+  "releaseNotes": "Dimosend 1.26 稳定版更新",
+  "installerUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.26/Dimosend-1.26-Setup.exe",
+  "installerChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.26/Dimosend-1.26-Setup.exe.sha256",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.26/Dimosend-1.26-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.26/Dimosend-1.26-Setup.zip.sha256",
   "deltas": [
     {
-      "fromVersion": "1.23",
-      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.25/Dimosend-1.23-to-1.25-Delta.zip",
-      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.25/Dimosend-1.23-to-1.25-Delta.zip.sha256"
+      "fromVersion": "1.25",
+      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.26/Dimosend-1.25-to-1.26-Delta.zip",
+      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/releases/1.26/Dimosend-1.25-to-1.26-Delta.zip.sha256"
     }
   ]
 }
