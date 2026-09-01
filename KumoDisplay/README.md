@@ -2,7 +2,7 @@
 
 此目录只服务 KumoDisplay，不与仓库中的其他软件共享清单、更新资产或版本号。
 
-`0.2.0` 和 `0.2.1` 的历史 ZIP 内仍是 `KumoHiDPI.app` 及旧身份，仅为保留历史资产和签名，不是 KumoDisplay 的手动迁移安装包；`0.2.x` 用户必须另行手动安装正式 KumoDisplay。
+`0.2.0` 和 `0.2.1` 的历史 ZIP 内仍是旧版 `.app` 名称与产品身份，仅为保留历史资产和签名，不是 KumoDisplay 的手动迁移安装包；`0.2.x` 用户必须另行手动安装正式 KumoDisplay。
 
 - `KumoDisplay/appcast.xml`：KumoDisplay 客户端读取的 Sparkle 更新清单。
 - `KumoDisplay/releases/<版本>/KumoDisplay-<版本>.zip`：该版本的完整更新包。
