@@ -3,15 +3,16 @@
     <channel>
         <title>KumoDisplay</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Mon, 31 Aug 2026 11:08:42 +0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <title>0.3.0</title>
+            <pubDate>Tue, 01 Sep 2026 10:21:26 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.2.1/KumoDisplay-0.2.1.zip" length="4279935" type="application/octet-stream" sparkle:edSignature="CeA9Wtn16vpSsl4geSC1SxKVipIxHdtIkOYqJpljGjPEFPqGJJvaWjuqU2LgOEyyX33uUxsp1TQrZ+IZH0AqAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.3.0/KumoDisplay-0.3.0.zip" length="4350665" type="application/octet-stream" sparkle:edSignature="97enSPVhqDxzLkoNzclsqUtuzxlptBZznma7VNowK1asdtnaY2KBxvcqxbhvlTwkleVCfiV1XqFYStdrqsELCA=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.2.1/KumoDisplay3-2.delta" sparkle:deltaFrom="2" length="29346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ukaR8Iu2KDFQQJZBvrHCyplg3Z7ViTlJcZvuD6BmPBGgTlrMv0kcX2PYrdwk4mopKHps2LhiBVWJKKa7hTLbCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.3.0/KumoDisplay4-3.delta" sparkle:deltaFrom="3" length="176862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dYQ7dWURVCk134wLY9odioBCUUVpeY9yJ+rr9TSt3CSmcjHxu5lZLtzgpJNn/ixEzT2rm8jrxeIYagOsU3jUBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.3.0/KumoDisplay4-2.delta" sparkle:deltaFrom="2" length="176890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jZLEc+vBb7CUeWR+kmYOVAERXm6qkK4C87JsKeQR9YYq066j4T+KwWhuynt6yIUUZAxauUSxGbmAM9PKHmN5BA=="/>
             </sparkle:deltas>
         </item>
     </channel>
