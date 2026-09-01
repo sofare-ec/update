@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KumoDisplay</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Mon, 31 Aug 2026 11:08:42 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.2.1/KumoDisplay-0.2.1.zip" length="4279935" type="application/octet-stream" sparkle:edSignature="CeA9Wtn16vpSsl4geSC1SxKVipIxHdtIkOYqJpljGjPEFPqGJJvaWjuqU2LgOEyyX33uUxsp1TQrZ+IZH0AqAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoDisplay/releases/0.2.1/KumoDisplay3-2.delta" sparkle:deltaFrom="2" length="29346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ukaR8Iu2KDFQQJZBvrHCyplg3Z7ViTlJcZvuD6BmPBGgTlrMv0kcX2PYrdwk4mopKHps2LhiBVWJKKa7hTLbCQ=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>
