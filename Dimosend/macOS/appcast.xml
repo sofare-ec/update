@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dimosend</title>
+        <item>
+            <title>1.46</title>
+            <pubDate>Tue, 01 Sep 2026 09:47:28 +0800</pubDate>
+            <sparkle:version>1.46</sparkle:version>
+            <sparkle:shortVersionString>1.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="40V8gKBEoWA8OcoUa8TNv6IQ90btXegvDZItnxxFENPeeFnah9uMzv/pNpKcl7XjKlX+M2T8IFMKVAPWxIZqBA==" sparkle:length="532">https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/macOS/Dimosend-1.46-macOS-arm64.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/macOS/Dimosend-1.46-macOS-arm64.zip" length="4802491" type="application/octet-stream" sparkle:edSignature="p3nHWHjS3fomtiZkKWuoqUlscecAyoRSuPTUtjV3tPMeOiiFlYkxMo90h3EuijzcaRH90YQHf1Ho1BFF+gvJBA=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/Dimosend/macOS/Dimosend1.46-1.45.delta" sparkle:deltaFrom="1.45" length="4438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NV4s6cH8ZRxbff48FDx1GfjZmTl4UvANtmEUomblNjpBYgJk2BI7zS917XGBWVyYJqmemJfIu1Y1TrAuMi7PDg=="></enclosure>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: YRQxvVUiSr0RIPMdxJbzeCkSOiwJemfZQrrRgNqN4Au92cyMak1rfo/PP9MyOQUcLaGth0nNIWwyFobwox1ZAw==
+length: 1923
+-->
