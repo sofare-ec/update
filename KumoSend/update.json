@@ -1,10 +1,16 @@
 {
-  "version": "1.50",
-  "releaseName": "KumoSend 1.50",
-  "releaseNotes": "KumoSend 1.50 稳定版更新",
-  "installerUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.50/KumoSend-1.50-Setup.exe",
-  "installerChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.50/KumoSend-1.50-Setup.exe.sha256",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.50/KumoSend-1.50-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.50/KumoSend-1.50-Setup.zip.sha256",
-  "deltas": []
+  "version": "1.51",
+  "releaseName": "KumoSend 1.51",
+  "releaseNotes": "KumoSend 1.51 稳定版更新",
+  "installerUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.51/KumoSend-1.51-Setup.exe",
+  "installerChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.51/KumoSend-1.51-Setup.exe.sha256",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.51/KumoSend-1.51-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.51/KumoSend-1.51-Setup.zip.sha256",
+  "deltas": [
+    {
+      "fromVersion": "1.50",
+      "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.51/KumoSend-1.50-to-1.51-Delta.zip",
+      "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/releases/1.51/KumoSend-1.50-to-1.51-Delta.zip.sha256"
+    }
+  ]
 }
