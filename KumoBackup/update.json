@@ -1,10 +1,10 @@
 {
-  "version": "2.58",
-  "releaseName": "KumoBackup 2.58",
-  "releaseNotes": "Use a semibold product title and display the version without a v prefix.",
-  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.58/KumoBackup-2.58-Setup.zip",
-  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.58/KumoBackup-2.58-Setup.zip.sha256",
-  "incrementalBaseVersion": "2.57",
-  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.58/KumoBackup-2.58-Update.zip",
-  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.58/KumoBackup-2.58-Update.zip.sha256"
+  "version": "2.59",
+  "releaseName": "KumoBackup 2.59",
+  "releaseNotes": "Fix Windows long paths for sync, backup and restore, including SMB paths. Improve failure diagnostics.",
+  "packageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.59/KumoBackup-2.59-Setup.zip",
+  "checksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.59/KumoBackup-2.59-Setup.zip.sha256",
+  "incrementalBaseVersion": "2.58",
+  "incrementalPackageUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.59/KumoBackup-2.59-Update.zip",
+  "incrementalChecksumUrl": "https://raw.githubusercontent.com/sofare-ec/update/main/KumoBackup/releases/2.59/KumoBackup-2.59-Update.zip.sha256"
 }
