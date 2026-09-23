@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KumoSend</title>
+        <item>
+            <title>1.54</title>
+            <pubDate>Wed, 23 Sep 2026 16:10:02 +0800</pubDate>
+            <sparkle:version>1.54</sparkle:version>
+            <sparkle:shortVersionString>1.54</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="Kv1jXPAM1grMMfz5W+s6aTKv/DjAZ6+TPsx+mc+tDjgut018HbgQ6mwSHuDtW46ALVAIdgH3yEm725URDr3FDA==" sparkle:length="190">https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/macOS/KumoSend-1.54-macOS-arm64.md</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/macOS/KumoSend-1.54-macOS-arm64.zip" length="4931089" type="application/octet-stream" sparkle:edSignature="i6ri0oEK62QnNfIggwTIb6nqNtxViFfsCv9HOM0Y25W2xHAwU4mKwM5gQMLCdUxUGqIHSuUHl2JTROOm9EiCAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/sofare-ec/update/main/KumoSend/macOS/KumoSend1.54-1.53.delta" sparkle:deltaFrom="1.53" length="374870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="451728" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FmEFpRKI5+K+c1ozZhfHDinKHocv+fAV+CUyAe0FVF8hQ9uWr3vlUN3pHrsgqexzhqmWBAExNLxB7VLZP3xdCg=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: b0mb6rhfs+/aFsrPHXvUzic7b8yCyuDYcPQOtTQmmfty87NHhits19136O3kpwI57P9/4AyIZDo7GDMuvQhFBA==
+length: 1668
+-->
